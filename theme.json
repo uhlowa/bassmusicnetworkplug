@@ -1,7 +1,7 @@
 {
     "room": "Bass Music Network",
     "author": "Author",
-    "icon": "http://imgur.com/a/Dc0ed",
+    "icon": "http://i.imgur.com/ZzU4sg3.png",
     "css": null,
     "rules": {
         "allowAutorespond": true,
@@ -27,7 +27,7 @@
         "user": null
     },
     "images": {
-        "background": "http://imgur.com/a/TthuH",
+        "background": "http://i.imgur.com/zb6Ce9Y.jpg",
         "playback": null,
         "admin": null,
         "ambassador": null,
