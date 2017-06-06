@@ -1,3 +1,9 @@
 .icon-room {
     background-size: 30px 30px;
 }
+
+[data-cid^="3565885"].cm .msg .from .un, #user-lists .list.room .role-host.id-3565885 .name
+{
+        /* Orange */
+        color:                   #006bff !important;
+}
