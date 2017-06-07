@@ -31,7 +31,7 @@
         "playback": null,
         "admin": null,
         "ambassador": null,
-        "host": "#FF0000",
+        "host": "&#xf2fc;",
         "cohost": null,
         "manager": null,
         "bouncer": null,
