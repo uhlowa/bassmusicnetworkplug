@@ -1,26 +1,8 @@
-/* css for /r/music */
-
-/*icon*/
-#room-bar .icon-room{
-    background-image: url('https://dl.dropboxusercontent.com/s/x5p3w3ojlqx5edo/music.png');
+.icon-room {
+    background-size: 30px 30px;
 }
 
-.icon {
-    background-image: url('https://dl.dropboxusercontent.com/s/3v4ojsn3337a36p/icon.png');
-}
-
-/*vote colors*/
-#woot .bottom, #woot.selected {
-    background: #ff8a5f;
-}
-
-#meh .bottom, #meh.selected {
-    background: #9494ff;
-}
-
-.media-list.history .score .positive {
-    color: #ff8a5f;
-}
-.media-list.history .score .negative {
-    color: #9494ff;
+[data-cid^="3565885"].cm .msg .from .un, #user-lists .list.room .role-host.id-3565885 .name
+{
+        color:                   #FF0000 !important;
 }
