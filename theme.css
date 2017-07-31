@@ -1,13 +1,5 @@
-.icon-room {
-    background-size: 30px 30px;
-}
-
-[data-cid^="3565885"].cm .msg .from .un, #user-lists .list.room .role-host.id-3565885 .name
-{
-        color:                   #C00000 !important;
-        text-shadow: 0 0 10px #9F0000;
-}
--
+ -/* css for Bass Music Network */
+ -
  -/*icon*/
  -#room-bar .icon-room{
  -    background-image: url('http://i.imgur.com/JUxJZUj.png');
@@ -33,3 +25,12 @@
  -}
  -.media-list.history .score .negative {
  -    color: #5F5F5F;
+     .icon-room {
+    background-size: 30px 30px;
+ }
+
+ [data-cid^="3565885"].cm .msg .from .un, #user-lists .list.room .role-host.id-3565885 .name
+ {
+        color:                   #C00000 !important;
+        text-shadow: 0 0 10px #9F0000;
+ }
