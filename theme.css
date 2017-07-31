@@ -5,4 +5,6 @@
 [data-cid^="3565885"].cm .msg .from .un, #user-lists .list.room .role-host.id-3565885 .name
 {
         color:                   #FF0000 !important;
+        text-shadow: 0 0 10px #9F0000;
 }
+
