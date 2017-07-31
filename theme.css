@@ -1,6 +1,11 @@
- [data-cid^="3565885"].cm .msg .from .un, #user-lists .list.room .role-host.id-3565885 .name
-  {
+.icon-room {
+    background-size: 30px 30px;
+}
+
+[data-cid^="3565885"].cm .msg .from .un, #user-lists .list.room .role-host.id-3565885 .name
+{
           color:                   #C00000 !important;
- +        text-shadow: 0 0 10px #9F0000;
-  }
- +
+          text-shadow: 0 0 10px #9F0000;
+}
+   
+   
