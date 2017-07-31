@@ -4,7 +4,32 @@
 
 [data-cid^="3565885"].cm .msg .from .un, #user-lists .list.room .role-host.id-3565885 .name
 {
-        color:                   #FF0000 !important;
+        color:                   #C00000 !important;
         text-shadow: 0 0 10px #9F0000;
 }
-
+-
+ -/*icon*/
+ -#room-bar .icon-room{
+ -    background-image: url('http://i.imgur.com/JUxJZUj.png');
+ -}
+ -
+ -.icon {
+ -    background-image: url('http://i.imgur.com/nodtvK4.jpg');
+ -}
+ -
+ -/*vote colors*/
+ -#woot .bottom, #woot.selected {
+ -    background: #000A80;
+ -}
+ -
+ -#meh .bottom, #meh.selected {
+ -    background: #9F0000;
+ +.icon-room {
+ +    background-size: 30px 30px;
+  }
+  
+ -.media-list.history .score .positive {
+ -    color: #5F5F5F;
+ -}
+ -.media-list.history .score .negative {
+ -    color: #5F5F5F;
