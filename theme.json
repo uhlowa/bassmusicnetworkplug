@@ -1,7 +1,7 @@
 {
     "room": "Bass Music Network",
     "author": "Author",
-    "icon": "http://i.imgur.com/yxo5096.png",
+    "icon": "http://i.imgur.com/JUxJZUj.png",
     "css": "https://github.com/uhlowa/bassmusicnetworkplug/blob/master/theme.css",
     "rules": {
         "allowAutorespond": true,
