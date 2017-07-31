@@ -2,7 +2,7 @@
     "room": "Bass Music Network",
     "author": "Author",
     "icon": "http://i.imgur.com/yxo5096.png",
-    "css": "https://rawgit.com/uhlowa/bassmusicnetworkplug/master/theme.css",
+    "css": "https://cdn.rawgit.com/uhlowa/bassmusicnetworkplug/737071cb/theme.css",
     "rules": {
         "allowAutorespond": true,
         "allowAutowoot": true,
